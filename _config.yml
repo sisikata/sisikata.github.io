@@ -1,27 +1,32 @@
 title: Sisi Kata
-description: Blog profesional dengan Jekyll dan GitHub Pages
-url: "https://sisikata.github.io"
-baseurl: ""
-repository: yourusername/sisikata.github.io
-theme: minimal-mistakes-jekyll
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Artikel, opini, dan catatan harian.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://sisikata.github.io" # the base hostname & protocol for your site
+
+# Build settings
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
 
 paginate: 5
 paginate_path: /page:num/
+markdown: kramdown
+theme: null
 
 author:
-  name   : Ahmad Kamarudin
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Menulis cerita, opini, dan gagasan sehari-hari."
+  name: Ahmad Kamarudin
+  bio: Menyusun kata menjadi makna.
   location: Indonesia
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/yourusername"
 
-permalink: /:categories/:title/
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
