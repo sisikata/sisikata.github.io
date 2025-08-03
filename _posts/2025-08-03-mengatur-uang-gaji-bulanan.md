@@ -1,3 +1,5 @@
+yaml
+
 ---
 
 title: "Tips Cara Mengatur Uang Gaji Bulanan Biar Tidak Boncos"
