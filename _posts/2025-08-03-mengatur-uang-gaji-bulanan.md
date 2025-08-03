@@ -14,7 +14,7 @@ excerpt: "Sering kehabisan uang padahal baru aja gajian? Mungkin kamu belum tahu
 ---
 Pernah nggak sih, baru seminggu setelah gajian, dompet udah tipis dan rekening mulai menipis? Terus mulai berpikir, "Kemana aja ya uang gaji selama ini?" 😅
 
-Tenang, kamu nggak sendirian mengalami hal seperti ini. Banyak dari kita yang belum benar-benar tahu cara mengatur gaji bulanan dengan baik. Padahal, penghasilan yang cukup bisa terasa *tidak cukup* kalau tidak dikelola dengan bijak.
+Tenang, kamu tidak sendirian mengalami hal seperti ini. Banyak dari kita yang belum benar-benar tahu cara mengatur gaji bulanan dengan baik. Padahal penghasilan yang cukup, bisa terasa *tidak cukup* kalau tidak dikelola dengan bijak.
 
 Yuk, mulai sekarang kita ubah cara pandang terhadap uang. Berikut ini 7 cara praktis dan realistis buat kamu yang ingin mengatur gaji bulanan biar tidak boncos terus setiap bulan.
 
