@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Tips Cara Mengatur Uang Gaji Bulanan Biar Tidak Boncos"
 date: 2025-08-03 14:00:00 +0700
 categories: 
