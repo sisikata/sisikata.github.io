@@ -2,8 +2,14 @@
 
 title: "Tips Cara Mengatur Uang Gaji Bulanan Biar Tidak Boncos"
 date: 2025-08-03 14:00:00 +0700
-categories: \[Keuangan, Tips Hidup]
-tags: \[gaji, finansial, hemat, pengelolaan uang]
+categories: 
+- Keuangan
+- Tips Hidup
+tags:
+- gaji
+- finansial
+- hemat
+- pengelolaan uang
 author: El Naryo
 excerpt: "Sering kehabisan uang padahal baru aja gajian? Mungkin kamu belum tahu cara yang tepat untuk mengatur keuangan. Ini 7 langkah sederhana yang bisa bantu kamu bebas dari boncos setiap bulan."
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
