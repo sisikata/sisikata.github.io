@@ -1,4 +1,3 @@
-yaml
 ---
 layout: post
 title: "Cara Berkomunikasi dengan Pasangan"
